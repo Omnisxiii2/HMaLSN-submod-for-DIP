@@ -10,6 +10,7 @@ fixes to the files to ensure that the correct flags are displayed at a given tim
 will literally never happen). Even if you're not a monarchist at heart, you can still enjoy the variety of new ship name pools!
 
 There are a few "editions" of this submod.
+
 MAIN: For DIP with Korea. WIP
 
 NO KOREA: For DIP without Korea. All playable western nations that historically had a functional monarchy at one point are now monarchies for all start dates (Brazil, UK, Spain, Portugal, France, Germany, Russia, 
