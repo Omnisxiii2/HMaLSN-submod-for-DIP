@@ -22,8 +22,10 @@ LESS MONARCHY: For DIP with Korea. Only monarchies that existed in the earliest 
 
 
 Why no China changes? Unfortunately, I am very unfamiliar with Chinese or other Asian languages and as such I will only make minor adjustments to their ship names, and keep them on the default historical path.
+
 Why no British names? I tried to make some new names, but I think the Royal Navy's battleships are sufficiently famous that any serious changes to the entire naming pool just doesn't sound correct. Given that
   the Royal Navy's ship naming customs basically date back centuries, it wouldn't make sense for the United Kingdom to have such a sudden urge to change their name pools.
+
 Why no Korean/Japanese names? Again, I am unfamiliar with these languages and lack any real way of anglicizing the language, so they will be left as-is.
 
 
