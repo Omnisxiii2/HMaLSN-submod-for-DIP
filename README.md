@@ -11,11 +11,14 @@ will literally never happen). Even if you're not a monarchist at heart, you can 
 
 There are a few "editions" of this submod.
 MAIN: For DIP with Korea. WIP
+
 NO KOREA: For DIP without Korea. All playable western nations that historically had a functional monarchy at one point are now monarchies for all start dates (Brazil, UK, Spain, Portugal, France, Germany, Russia, 
   Italy, Austria, Ottomans, Greece). Note that France is based on an Orleanist restoration. China will still become the ROC after 1910 start date for reasons I'll explain.
+
 EXTREME MONARCHY: For DIP with Korea. All playable western nations besides the United States are now monarchies for all start dates. The United States remains the lone beacon of democracy in the world. Note that
   France is based on an Orleanist restoration, Argentina is based on a proposed Kingdom of La Plata using Queen Carlota of Portugal and then a Miguelist branch of Braganza, and Chile is based on a completely
   made up alt history from the Habsburgs. China will still become the ROC after 1910 start date for reasons I'll explain. WIP
+
 LESS MONARCHY: For DIP with Korea. Only monarchies that existed in the earliest start date (1890) are monarchies for all start dates; nations that start as democracies in 1890 will remain democracies as in
   vanilla. This means a democratic France and Brazil, along with adjusted ship name pools to match. This is a much more "historical" experience, although you'll still get the Russian and German empires in 1940.
   Until I figure out a way to have name pools that change over by government type, I think this is the best balance to make the name pools "correct" to history.
