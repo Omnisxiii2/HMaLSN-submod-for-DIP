@@ -36,3 +36,5 @@ Why no Korean/Japanese names? Again, I am unfamiliar with these languages and la
 
 All versions of this submod will be saved and backed up here; however this submod was created when 3a9 was the current version and I will not be making versions for any DIP version older than this.
 You may freely use this in your own work. I appreciate credit but it is not necessary (let's be real, doing this wasn't hard codewise, the real work was tons of Google).
+
+To use, simply download all of these files, then replace the mod's original files with matching names with these. Replacing English.lng is not required for this mod, but does contain slightly revised campaign text. You may choose to only replace shipNames if you wish to keep the full governments as in vanilla and use only the updated ship name pools.
