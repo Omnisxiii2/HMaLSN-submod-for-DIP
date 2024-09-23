@@ -11,7 +11,8 @@ will literally never happen). Even if you're not a monarchist at heart, you can 
 
 There are a few "editions" of this submod.
 
-MAIN: For DIP with Korea. WIP
+MAIN: For DIP with Korea. All playable western nations that historically had a functional monarchy at one point are now monarchies for all start dates (Brazil, UK, Spain, Portugal, France, Germany, Russia, 
+  Italy, Austria, Ottomans, Greece). Note that France is based on an Orleanist restoration. China will still become the ROC after 1910 start date for reasons I'll explain.
 
 NO KOREA: For DIP without Korea. All playable western nations that historically had a functional monarchy at one point are now monarchies for all start dates (Brazil, UK, Spain, Portugal, France, Germany, Russia, 
   Italy, Austria, Ottomans, Greece). Note that France is based on an Orleanist restoration. China will still become the ROC after 1910 start date for reasons I'll explain.
